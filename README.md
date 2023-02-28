@@ -47,8 +47,7 @@
     <img src="https://github.com/tryber/sd-016-b-project-job-insights/blob/elton-moreno-job-insights/.images/job.png?raw=true" alt="Logo Aplicação" width="300"/>
   </p>
 
-Neste projeto foi implementará análises a partir de um conjunto de dados sobre empregos. 
-Os dados foram extraídos do site Glassdoor e obtidos através do Kaggle, uma plataforma disponiblizando conjuntos de dados para cientistas de dados.
+Neste projeto foi implantado uma série de análises a partir de um conjunto de dados sobre empregos. Os dados foram extraídos do site Glassdoor e obtidos através do Kaggle, uma plataforma disponiblizando conjuntos de dados para cientistas de dados.
 
 <br />
 <br />
